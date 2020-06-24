@@ -23,5 +23,5 @@ p2 = Point(2, 2)
 
 print("<p1과 p2 사이의 거리>")
 print(p1.distance(p2))
-print("<p1, p2>")
+print("<p1+p2>")
 print(p1 + p2)
